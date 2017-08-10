@@ -1,0 +1,36 @@
+Time: Thu 08/05/2004  09:56 AM
+Priority Level: High (Requires immediate attention)
+Status: OPEN
+Name: James Anderton
+Email Address: 
+Asset#: 31309
+Error Type: Other
+Description: Testing View Button
+Assigned To:                 
+Resolution:                  
+Date Solved:                 
+
+<br />
+Time: Thu 08/05/2004  09:59 AM
+Priority Level: Normal (Fix as Schedule Permits)
+Status: OPEN
+Name: James Anderton
+Email Address: 
+Asset#: 31309
+Error Type: Other
+Description: Changed Fields in public view
+Assigned To:                 
+Resolution:                  
+Date Solved:                   
+<br />Time: Thu 08/05/2004  10:01 AM
+Priority Level: ---SELECT ONE---
+Status: OPEN
+Name: James Anderton
+Email Address: 
+Asset#: 31309
+Error Type: ---SELECT ONE---
+Description: changed printout
+Assigned To:                 
+Resolution:                  
+Date Solved:                  
+<br />
